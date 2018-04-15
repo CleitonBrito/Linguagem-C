@@ -55,7 +55,7 @@ A ordem em que as bolas podem variar é:
 2ª combinação : 	B P B
 3ª combinação : 	P B B
 
-Por isso iremos multiplicar tudo pode 3, ou seja, temos três combinações diferentes.
+Por isso iremos multiplicar tudo por 3, ou seja, temos três combinações diferentes.
 
 ````
 
@@ -83,7 +83,7 @@ A ordem em que as bolas podem variar é:
 2ª combinação : 	P B P
 3ª combinação : 	B P P
 
-Por isso iremos multiplicar tudo pode 3, ou seja, temos três combinações diferentes.
+Por isso iremos multiplicar tudo por 3, ou seja, temos três combinações diferentes.
 
 ````
 
