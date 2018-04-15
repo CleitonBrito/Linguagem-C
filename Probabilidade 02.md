@@ -206,7 +206,3 @@ A questão nos pede que sejam pessoas com 16 anos ou mais, então nossos casos p
 8/16
 
 0,5 ou 50%
-
----
-
-#### Exemplo 6 ####
