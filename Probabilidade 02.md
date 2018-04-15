@@ -49,6 +49,15 @@ R= (0,28 + 0,11) - 0,04
 
 R= 0,39 - 0,04
 
-R= 0,35 ou 35%
+R= 0,35
 
+````
+Achamos a probabilidade do evento acontecer. Para acharmos a probabilidade do evento não aocntecer
+iremos subtrair o valor por 1. Pois a união do evento acontecer mais a probabilidade do evento não
+acontecer é 1.
+
+````
+R= 0,35 - 1
+
+R= 0,65 ou 65%
 
