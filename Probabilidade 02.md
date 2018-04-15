@@ -1,6 +1,5 @@
 # PROBABILIDADE #
 
----
 
 ## Intersecção ##
 
