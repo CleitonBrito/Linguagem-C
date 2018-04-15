@@ -7,7 +7,7 @@
 Quando falamos em dois eventos ao mesmo tempo devemos lembrar que a intersecção é um valor que está
 presente nos dois eventos ao mesmo tempo, e devemos retirar esse valor (subtrair).
 
----
+
 
 #### Exemplo 1 ####
 
@@ -60,4 +60,53 @@ acontecer é 1.
 R= 0,35 - 1
 
 R= 0,65 ou 65%
+
+---
+
+## Fração ##
+
+Multiplicação e divisão de frações
+
+
+#### Exemplo 3 ####
+
+Carlos sabe que Ana e Beatriz estão viajando pela Europa. Com as informações que dispõe, ele estima corretamente que a probabilidade de Ana estar hoje em Paris é 3/7, que a probabilidade de Beatriz estar hoje em Paris é 2/7, e que a probabilidade de ambas, Ana e Beatriz, estarem hoje em Paris é 1/7. Carlos então recebe um telefonema de Ana, informando que ela está hoje em Paris. Com a informação recebida pelo telefonema de Ana, Carlos agora estima corretamente que a probabilidade de Beatriz também estar hoje em Paris é igual a:
+
+````
+Quando trabalhamos com frações existe a possibilidade de fazer uma multiplicação ou divisão de frações.
+
+Sabemos que A∩B: 1/7
+            Ana: 3/7
+        Beatriz: 2/7
+
+````
+
+R= A∩B = (Prob_Ana) * (Prob_Beatriz)
+
+R= 1/7 = 3/7 * (Prob_Beatriz)
+
+R= (Prob_Beatriz) = (3/7)/(1/7)
+
+R= (Prob_Beatiz) = 1/3
+
+````
+Para realizarmos essa divisão de fração iremos multiplicar o NUMERADOR com o DENOMINADOR da outra.
+
+Original:
+
+1    3
+- *  -
+7    7 
+
+multiplicando UMERADOR com o DENOMINADOR da outra:
+
+7    3     21 :3        1
+- *  - =   -      ->    -
+1    7     7 :3         3
+
+
+
+````
+---
+
 
