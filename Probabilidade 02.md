@@ -52,7 +52,7 @@ R= 0,39 - 0,04
 R= 0,35
 
 ````
-Achamos a probabilidade do evento acontecer. Para acharmos a probabilidade do evento não aocntecer
+Achamos a probabilidade do evento acontecer. Para acharmos a probabilidade do evento não acontecer
 iremos subtrair o valor por 1. Pois a união do evento acontecer mais a probabilidade do evento não
 acontecer é 1.
 
@@ -98,15 +98,55 @@ Original:
 - *  -
 7    7 
 
-multiplicando UMERADOR com o DENOMINADOR da outra:
+multiplicando NUMERADOR com o DENOMINADOR da outra:
 
 7    3     21 :3        1
 - *  - =   -      ->    -
 1    7     7 :3         3
 
-
-
 ````
 ---
 
+#### Exemplo 4 ####
 
+Considerando que Ana e Carlos candidataram-se a empregos em uma empresa e sabendo que a probabilidade de Ana
+ser contratada é igual a 2/3 e que a probabilidade de ambos serem contratados é 1/6, julgue os itens subsequentes:
+
+1) A probabilidade de Ana ser contratada e de Carlos não ser contratado é igual a 1/2.
+2) Se um dos dois for contratado, a probabilidade de que seja Carlos será igual a 1/2.
+
+````
+Sabemos que A∩C: 1/6
+            Ana: 2/3
+           Carlos: ?
+````
+* Respondendo.. 
+
+A∩C = (Prob_Ana) * (Prob_Carlos)
+
+1/6 = 2/3 * (Prob_Carlos)
+
+(Prob_Carlos) = (1/6)/(2/3)
+
+(Prob_Carlos) = 1/4
+
+````
+Para realizarmos essa divisão de fração iremos multiplicar o NUMERADOR com o DENOMINADOR da outra.
+
+Original:
+
+1    2
+- *  -
+6    3 
+
+multiplicando NUMERADOR com o DENOMINADOR da outra:
+
+1    3     3 :3          1
+- *  - =   -        ->   -
+6    2     12 :3         4
+
+1                                                                                        3
+- é a probabilidade de Carlos ser contratado. A probabilidade dele não ser contratado é  -
+4                                                                                        4
+
+````
