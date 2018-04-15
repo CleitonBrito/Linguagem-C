@@ -203,6 +203,6 @@ A questão nos pede que sejam pessoas com 16 anos ou mais, então nossos casos p
 ````
 * Respondendo...
 
-8/16
+R= 8/16
 
-0,5 ou 50%
+R= 0,5 ou 50%
