@@ -150,3 +150,63 @@ multiplicando NUMERADOR com o DENOMINADOR da outra:
 4                                                                                        4
 
 ````
+---
+
+## Tabela ##
+
+Analisando dados a partir de uma tabela
+
+#### Exemplo 4 ####
+
+A tabela ao lado apresenta as frequências acumuladas das idadades de 20 jovens entre 14 e 20 anos. Um desses jovens será
+escolhido ao acaso. Qual a probabilidade de que o jovem escolhido tenha __menos de 18 anos__, sabendo que esse jovem terá
+__16 anos__ ou mais?
+
+Idade (anos) | Frequência acumulada
+-------------|----------------------
+14           |          2
+15           |          4
+16           |          9
+17           |          12
+18           |          15
+19           |          18
+20           |          20
+
+````
+Para entendermos melhor iremos descobrir quem é a frequência RELATIVA
+````
+
+* Tabela com a frequência relativa:
+
+Idade (anos) | Frequência acumulada | Frequencia relativa
+-------------|----------------------|---------------------
+14           |          2           |           2
+15           |          4           |           2
+__16 <-__    |          9           |         __5 <-__
+__17 <-__    |          12          |         __3 <-__
+18           |          15          |           3
+19           |          18          |           3
+20           |          20          |           2
+
+````
+Perceba que já identificamos quem são os dados que nos interessam para resolver a questão, indicado com o "<-" 
+do lado.
+
+Ao todo temos:
+
+5 pessoas com 16 anos
+3 pessoas com 17 anos
+
+Ou seja, total de 8 pessoas, isso será nossos casos favoráveis.
+A questão nos pede que sejam pessoas com 16 anos ou mais, então nossos casos possíveis será 16
+
+````
+* Respondendo...
+
+8/16
+
+0,5 ou 50%
+
+---
+
+#### Exemplo 5 ####
