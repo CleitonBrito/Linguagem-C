@@ -156,7 +156,7 @@ multiplicando NUMERADOR com o DENOMINADOR da outra:
 
 Analisando dados a partir de uma tabela
 
-#### Exemplo 4 ####
+#### Exemplo 5 ####
 
 A tabela ao lado apresenta as frequências acumuladas das idadades de 20 jovens entre 14 e 20 anos. Um desses jovens será
 escolhido ao acaso. Qual a probabilidade de que o jovem escolhido tenha __menos de 18 anos__, sabendo que esse jovem terá
@@ -209,4 +209,4 @@ A questão nos pede que sejam pessoas com 16 anos ou mais, então nossos casos p
 
 ---
 
-#### Exemplo 5 ####
+#### Exemplo 6 ####
