@@ -37,7 +37,7 @@ de que Lígia pare num posto de gasolina e não peça para verificar nem óleo e
 
 ````
 Nessa questão queremos a probabilidade de um evento não acontecer. Usaremos a ideia de COMPLEMENTAR 
-para resolver esse problema. Calcularemos a probabilidade do evento acontecer e depois sobtraimos por 1, 
+para resolver esse problema. Calcularemos a probabilidade do evento acontecer e depois subtraímos por 1, 
 o resultado é a probabilidade do evento não acontecer.
 
 Chamaremos o evento verificar o óleo de A, e verificar os pneus de B.
