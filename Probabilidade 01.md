@@ -75,7 +75,7 @@ R= 0,32 ou 32%
 b) 
 
 ```` 
-Queremos 1 Brancas e 2 Preta
+Queremos 1 Branca e 2 Pretas
 
 A ordem em que as bolas podem variar é:
 
